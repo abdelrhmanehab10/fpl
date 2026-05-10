@@ -1,0 +1,25 @@
+{
+  "projectName": "fpl-tool",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "npm",
+  "includeExamples": true,
+  "tailwind": true,
+  "addOnOptions": {},
+  "envVarValues": {
+    "CONVEX_DEPLOYMENT": "preview:abdelrhman-ehab-c2a69:fpl-tool|eyJ2MiI6ImE0NTE0YjFhOTQxMjRjY2JiMmRmNGQ4ZmJiOGU4Y2NmIn0=",
+    "VITE_CONVEX_URL": "test"
+  },
+  "git": true,
+  "install": true,
+  "routerOnly": false,
+  "version": 1,
+  "framework": "react",
+  "chosenAddOns": [
+    "biome",
+    "railway",
+    "convex",
+    "better-auth",
+    "tanstack-query"
+  ]
+}
